@@ -1,0 +1,1 @@
+<p dir="auto">{</p><p dir="auto">  "name": "ai-dm-generator",</p><p dir="auto">  "version": "1.0.0",</p><p dir="auto">  "main": "index.js",</p><p dir="auto">  "type": "module",</p><p dir="auto">  "dependencies": {</p><p dir="auto">    "cors": "^2.8.5",</p><p dir="auto">    "express": "^4.18.2",</p><p dir="auto">    "openai": "^4.20.0"</p><p dir="auto">  }</p><p dir="auto">}</p>
